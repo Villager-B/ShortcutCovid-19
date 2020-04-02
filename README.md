@@ -7,6 +7,10 @@
 - Shortcut App
 - Pythonista(iOS App)
 
+## Video
+[![](http://img.youtube.com/vi/zRSYMpHUMbo/0.jpg)](http://www.youtube.com/watch?v=zRSYMpHUMbo "日本と和歌山県のCOVID-19感染者数をサクッと確認するショートカット")
+
+
 ## Data Source
 - Japan (https://corona-stats.online/Japan)
 - Wakayama Prefecture (https://www.pref.wakayama.lg.jp/prefg/000200/covid19.html)
